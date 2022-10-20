@@ -1,5 +1,5 @@
 
-# $CS-A^2RID$: Anonymous and Verifiable Remote Identification of Commercial Drones
+# $CS-A^2RID$: Anonymous Direct Authentication and Remote Identification of Commercial Drones
 
 <!-- TABLE OF CONTENTS -->
 <details>
