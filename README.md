@@ -1,4 +1,5 @@
-# Anonymous and Verifiable Remote Identification of Commercial Drones (ARID2)
+
+# $CS-A^2RID$: Anonymous and Verifiable Remote Identification of Commercial Drones
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -28,7 +29,7 @@ To enable enhanced accountability of Drones and Unmanned Aerial Vehicles (UAVs) 
 
 The enforcement of such a rule, mandatory by 2022, generated significant concerns on UAV operators, primarily because of privacy issues derived by the indiscriminate broadcast of the plain-text identity of the UAVs on the wireless channel.
 
-First solutions to guarantee UAVs anonymity in the RemoteID settings are starting to appear in the literature (see [Tedeschi et.al](https://dl.acm.org/doi/10.1145/3485832.3485834)), but they fall short in guaranteeing the possibility to Critical Infrastructure (CI) operators to autonomously authenticate RemoteID messages. As a result, the FAA is heavily involved, not only in the deanonymization process but also in the authentication of received packets. Overall, such heavy involvement slows-down the chances of deployments of such solutions.
+First solutions to guarantee UAVs anonymity in the RemoteID settings are starting to appear in the literature[^1], but they fall short in guaranteeing the possibility to Critical Infrastructure (CI) operators to autonomously authenticate RemoteID messages. As a result, the FAA is heavily involved, not only in the deanonymization process but also in the authentication of received packets. Overall, such heavy involvement slows-down the chances of deployments of such solutions.
 
 In this project, we plan to advance the state of the art by providing solutions for anonymous and verifiable remote identification of commercial drones and UAVs. To this aim, we plan to apply anonymous verifiable group signatures in the context of UAVs. Such cryptographic schemes allow members of a group to generate anonymous messages, whose authenticity can be verified by the receiving entities through the cryptographic verification of the association between the transmitting entity and the group. At the same time, such schemes allow the identification of the specific transmitter by a Trusted Party, when illegitimate activities are detected.
 
@@ -138,3 +139,5 @@ Pietro Tedeschi - pietro dot tedeschi at tii dot ae
 Any actions and or activities related to the material contained within this github repository is solely your responsibility. The misuse of the information in this repository can result in criminal charges brought against the persons in question. The author(s) will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this repository to break the law.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+[^1]: Tedeschi, Pietro, Savio Sciancalepore, and Roberto Di Pietro. "ARID: Anonymous Remote IDentification of Unmanned Aerial Vehicles." Annual Computer Security Applications Conference. 2021. https://dl.acm.org/doi/10.1145/3485832.3485834
