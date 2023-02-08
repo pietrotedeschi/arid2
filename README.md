@@ -33,6 +33,8 @@ First solutions to guarantee UAVs anonymity in the RemoteID settings are startin
 
 In this project, we plan to advance the state of the art by providing solutions for anonymous and verifiable remote identification of commercial drones and UAVs. To this aim, we plan to apply anonymous verifiable group signatures in the context of UAVs. Such cryptographic schemes allow members of a group to generate anonymous messages, whose authenticity can be verified by the receiving entities through the cryptographic verification of the association between the transmitting entity and the group. At the same time, such schemes allow the identification of the specific transmitter by a Trusted Party, when illegitimate activities are detected.
 
+The contribution is published in IEEE Internet of Things Journal[^2].
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -141,3 +143,4 @@ Any actions and or activities related to the material contained within this gith
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 [^1]: Tedeschi, Pietro, Savio Sciancalepore, and Roberto Di Pietro. "ARID: Anonymous Remote IDentification of Unmanned Aerial Vehicles." Annual Computer Security Applications Conference. 2021. https://dl.acm.org/doi/10.1145/3485832.3485834
+[^2]: Wisse, Eva, Pietro Tedeschi, Savio Sciancalepore, and Roberto Di Pietro. "A 2RID-Anonymous Direct Authentication and Remote Identification of Commercial Drones." IEEE Internet of Things Journal (2023). https://doi.org/10.1109/JIOT.2023.3240477
