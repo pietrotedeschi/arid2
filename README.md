@@ -129,11 +129,22 @@ Distributed under the Apache 2 License. See  [LICENSE](./LICENSE) for more infor
 
 
 <!-- CONTACT -->
-## Contact
+## Developer
 
 Pietro Tedeschi - pietro dot tedeschi at tii dot ae 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## How to Cite $A^2RID$
+```
+@article{wisse20232rid,
+  title={{$A^2RID$-Anonymous Direct Authentication and Remote Identification of Commercial Drones}},
+  author={Wisse, Eva and Tedeschi, Pietro and Sciancalepore, Savio and Di Pietro, Roberto},
+  journal={{IEEE Internet of Things Journal}},
+  year={2023},
+  publisher={IEEE}
+}
+```
 
 <!-- DISCLAIMER -->
 ## Disclaimer
